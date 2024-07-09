@@ -1,2 +1,2 @@
 # estudos
-Repositório contendo exercícios referentes aos meus estudos
+Repositório contendo exercícios referentes aos meus estudos.
